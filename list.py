@@ -21,3 +21,9 @@ List(22)
   
 print (myUniqueList)
 print (myLeftovers)
+
+'''
+still need to figure out how to call on the
+return value of the List() function from a 
+completely seperate function 
+'''
